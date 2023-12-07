@@ -1,0 +1,10 @@
+.general{
+    display: none;
+}
+
+
+@media (min-width: 640px) {
+   .general{
+    display: flex;
+   }
+}
